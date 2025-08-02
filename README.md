@@ -35,7 +35,7 @@ Then open the URL shown in the terminal (usually http://localhost:5173/).
 
 ## 📂 Project Structure
 ```
-comments-spa-no-tailwind/
+comments-spa
 ├── public/
 ├── src/
 │   ├── components/
