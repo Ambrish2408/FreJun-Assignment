@@ -1,7 +1,7 @@
 # Comments SPA (React)
 
 This project is a **Single Page Application (SPA)** built using **React + Vite**, fulfilling all assignment requirements.
-
+FreJun TakeHome Assignment 
 ---
 
 ## ✅ Features Implemented
